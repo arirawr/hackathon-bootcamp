@@ -35,7 +35,6 @@ This repository is a collection of resources to accompany the Hackathon Bootcamp
 ###Who is HackMcGill?
 - [HackMcGill website](http://hackmcgill.com/)
 - [HackMcGill Facebook group](https://www.facebook.com/groups/hackmcgill/)
-- 
 
 ###Hackawhat? Hackathon.
 - [WTF is a hackathon?](https://medium.com/hackathons-anonymous/wtf-is-a-hackathon-92668579601)
